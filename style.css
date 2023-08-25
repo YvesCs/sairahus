@@ -1,0 +1,143 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+  font-family: 'Mitr', sans-serif;
+}
+
+.show {
+  background-color: #ffffff;
+  text-color: black;
+  margin-bottom: 0%;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 25px;
+  font-family: 'Mitr', sans-serif;
+  font-size: 105%;
+}
+
+.code {
+  color: #fafafa;
+  font-size: 150%;
+}
+
+.title {
+  font-size: 180%;
+  color: black;
+}
+
+.l {
+  font-size: 80%;
+}
+
+.img2 {
+  float: left;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #107be9;
+  border-radius: 25px;
+  padding: 15px;
+  border: 5px;
+}
+
+.A {
+  border-radius: 10px;
+}
+
+.B {
+  border-radius: 10px;
+}
+
+.Button {
+  background-color: #107BE9;
+  color: white;
+  border-radius: 15px;
+  font-size: 50%;
+  font-family: 'Mitr', sans-serif;
+  border: solid 5px #107BE9;
+}
+
+.link {
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: rgba(16, 123, 233, 0.1);
+  border-radius: 25px;
+  padding: 21.25px 15px 21.25px 15px;
+  border: 5px;
+  font-size: 100%;
+}
+
+.l1 {
+  background-color: #107be9;
+  padding: 5px 15px 5px 15px;
+  border-radius: 15px;
+  text-decborder-radius: 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.l2 {
+  background-color: #107BE9;
+  padding: 5px 15px 5px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.l3 {
+  background-color: #107BE9;
+  padding: 5px 15px 5px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.l4 {
+  background-color: #107BE9;
+  padding: 5px 15px 5px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.l5 {
+  background-color: #107BE9;
+  padding: 5px 15px 5px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: white;
+}
+
+.alt {
+  text-decoration: underline;
+  color: red;
+  font-size: 70%;
+}
+
+.EASTEREGG {
+  font-size: 60%; 
+  color: black;
+}
+
+.hi {
+  font-size: 130%;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+.h1 {
+  font-size: 210%;
+}
+
+.tp {
+  text-decoration: none;
+  color: #fafafa;
+}
