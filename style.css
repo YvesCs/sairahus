@@ -73,6 +73,7 @@ html, body {
   right: 10px;
   border: 5px;
   width: 100%;
+  align-items: center;
   justify-content: space-around;
 }
 
