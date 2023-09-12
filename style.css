@@ -62,7 +62,7 @@ html, body {
   background-color: #107be9;
   border-radius: 25px;
   float: left;
-  border: 50px solid #107be9;
+  padding: 50px;
 }
 
 .link .group {
