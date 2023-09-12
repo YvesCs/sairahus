@@ -61,12 +61,12 @@ html, body {
 .link img {
   background-color: #107be9;
   border-radius: 5px;
-  justify-content: left;
-  margin-right: 5px;
-  border: 5px solid #107be9;
+  float: left;
+  border: 15px solid #107be9;
 }
 
 .link .group {
+  display: absolute;
   background-color: rgba(16, 123, 233, 0.1);
   border-radius: 25px;
   padding: 21.25px 15px 21.25px 15px;
