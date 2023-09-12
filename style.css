@@ -5,11 +5,6 @@ html, body {
   font-family: 'Mitr', sans-serif;
 }
 
-.banner {
-  width: 100%;
-  justify-content: space-around;
-}
-
 .show {
   background-color: #ffffff;
   text-color: black;
