@@ -143,5 +143,8 @@ h1 {
 }
 
 navigation {
+  padding: 0;
+  margin: 0;
+  width: 100%;
   justify-content: space-around;
 }
