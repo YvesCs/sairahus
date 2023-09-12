@@ -62,7 +62,7 @@ html, body {
 }
 
 .link {
-  justify-content: space-around
+  justify-content: space-around;
   display: inline-block;
   margin-top: 20px;
   margin-left: 20px;
