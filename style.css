@@ -61,7 +61,7 @@ html, body {
 .link img {
   background-color: #107be9;
   border-radius: 5px;
-  float: left;
+  justify-content: left;
   margin-right: 5px;
   padding: 5px 5px 5px 5px;
 }
