@@ -70,11 +70,10 @@ html, body {
   background-color: rgba(16, 123, 233, 0.1);
   border-radius: 25px;
   padding: 21.25px 15px 21.25px 15px;
-  right: 10px;
+  margin-right: 15px;
   border: 5px;
   width: 100%;
-  align-items: center;
-  justify-content: space-around;
+  align-items: left;
 }
 
 .l1 {
