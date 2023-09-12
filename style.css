@@ -52,7 +52,7 @@ html, body {
 
 .link {
   display: flex;
-  margin: center;
+  justify-content: space-around;
   width: 100%;
   font-size: 100%;
 }
