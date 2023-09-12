@@ -66,6 +66,7 @@ html, body {
 }
 
 .link .group {
+  display: flex;
   float: right;
   width: 50%;
   background-color: rgba(16, 123, 233, 0.1);
