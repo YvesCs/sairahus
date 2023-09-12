@@ -67,8 +67,7 @@ html, body {
   border: 5px;
 }
 
-.link a { 
-  position: relative; 
+.link a {
   z-index: 9;
   background-color: rgba(16, 123, 233, 0.1);
   cursor: pointer;
