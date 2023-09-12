@@ -52,7 +52,7 @@ html, body {
 
 .link {
   width: 100%;
-  position: fixed;
+  position: absolute;
   z-index: 10;
   margin-top: 20px;
   margin-left: 20px;
