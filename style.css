@@ -51,6 +51,7 @@ html, body {
 }
 
 .link {
+  position: fixed;
   display: flex;
   font-size: 100%;
 }
