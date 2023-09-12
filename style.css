@@ -51,7 +51,8 @@ html, body {
 }
 
 .link {
-  position: absolute;
+  width: 100%;
+  position: fixed;
   z-index: 10;
   margin-top: 20px;
   margin-left: 20px;
