@@ -52,7 +52,8 @@ html, body {
 .link {
   width: 100%;
   position: fixed;
-  margin: 20px 20px 20px 20px;
+  top: 0;
+  left: 0;
 }
 
 .l1 {
