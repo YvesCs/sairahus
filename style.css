@@ -51,8 +51,7 @@ html, body {
 }
 
 .link {
-  position: absolute; 
-  width: 100%; 
+  position: absolute;
   z-index: 10;
   margin-top: 20px;
   margin-left: 20px;
@@ -60,6 +59,7 @@ html, body {
 }
 
 .link .img2 {
+  float: left;
   background-color: #107be9;
   border-radius: 25px;
   padding: 15px;
@@ -67,6 +67,7 @@ html, body {
 }
 
 .link a {
+  justify-content: space-around;
   z-index: 9;
   background-color: rgba(16, 123, 233, 0.1);
   cursor: pointer;
