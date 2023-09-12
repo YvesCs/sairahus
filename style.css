@@ -52,7 +52,6 @@ html, body {
 
 .link {
   display: flex;
-  z-index: 10;
   margin: center;
   width: 100%;
   font-size: 100%;
