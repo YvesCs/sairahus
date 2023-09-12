@@ -6,11 +6,8 @@ html, body {
 }
 
 .banner {
-  position: fixed;
-  top: 0;
-  left: 0;
+  width: 100%;
   justify-content: space-around;
-  z-index: 999;
 }
 
 .show {
