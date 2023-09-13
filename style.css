@@ -55,7 +55,6 @@ html, body {
   display: flex;
   margin-top: 100px;
   margin-left: 100px;
-  margin-right: 100px;
 }
 
 .link img {
@@ -71,6 +70,7 @@ html, body {
   padding: 21.25px 15px 21.25px 15px;
   border: 5px;
   width: 100%;
+  margin-right: 100px;
 }
 
 .l1 {
