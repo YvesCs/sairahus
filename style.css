@@ -54,7 +54,7 @@ html, body {
   width: 100%;
   display: flex;
   margin-top: 10%;
-  align-items: center;
+  justify-content: center;
 }
 
 .link img {
