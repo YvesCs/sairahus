@@ -69,7 +69,7 @@ html, body {
   border-radius: 25px;
   padding: 21.25px 15px 21.25px 15px;
   border: 5px;
-  width: 100%;
+  width: 100vh;
   margin-right: 100px;
 }
 
